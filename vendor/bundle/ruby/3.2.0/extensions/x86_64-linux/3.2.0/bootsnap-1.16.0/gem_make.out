@@ -1,0 +1,18 @@
+current directory: /workspaces/hello_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+/usr/local/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /workspaces/hello_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20260407-12415-4rg8q7 sitelibdir\=./.gem.20260407-12415-4rg8q7 clean
+
+current directory: /workspaces/hello_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20260407-12415-4rg8q7 sitelibdir\=./.gem.20260407-12415-4rg8q7
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /workspaces/hello_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20260407-12415-4rg8q7 sitelibdir\=./.gem.20260407-12415-4rg8q7 install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20260407-12415-4rg8q7/bootsnap
+
+current directory: /workspaces/hello_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20260407-12415-4rg8q7 sitelibdir\=./.gem.20260407-12415-4rg8q7 clean
